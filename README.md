@@ -18,10 +18,10 @@ I started with EDA and data visualizations to help myself with feature engineeri
 
 I recently started learning `pytorch` in my Intro to Deep Learning class @ UC Berkeley, so I wanted to test it out IRL. I made a simple neural network (meaning, there weren't a ton of parameters) and trained the model on the provided data. I used an `adam` optimizer and `2000` training iterations because the dataset was pretty small and my computer could handle the computation.
 
-In the end, my Kaggle submission recieved a `91%` accuracy score and my in-notebook validation accuracy was `94.66`. In the future, I would probably instead use a `scikit-learn` MLP classifier or an `XGBoost` decision tree to make my predictions. Either way, my model is certainly usable.
+In the end, my Kaggle submission recieved a `91%` accuracy score and my in-notebook validation accuracy was `94.66`. In the future, I would probably instead use an `XGBoost` decision tree to make my predictions. Either way, my model is certainly usable.
 
 ### 📖 What I learned
- - I can actually code! In my homeworks and projects, a lot of code is already provided by professors, but this project was different. I got to program everything from start to finish. I also only used `Google Gemini` 3 times, for formatting subplots and calculating validation accuracy (not substaintial at all).
+ - I can actually code! In my homeworks and projects, a lot of code is already provided by professors, but this project was different. I got to program everything from start to finish. I also only used `Google Gemini` `3` times (for formatting subplots and calculating validation accuracy — not substantial at all).
  - `pytorch` for MLP classification, how to build and train `pytorch` models, and how to test them.
  -   how to properly preprocess to prevent data leakage — next I want to learn how to preprocess entirely using `scikit-learn`.
 
