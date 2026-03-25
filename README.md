@@ -21,7 +21,7 @@ I recently started learning `pytorch` in my Intro to Deep Learning class @ UC Be
 In the end, my Kaggle submission recieved a `91%` accuracy score and my in-notebook validation accuracy was `94.66`. In the future, I would probably instead use a `scikit-learn` MLP classifier or an `XGBoost` decision tree to make my predictions. Either way, my model is certainly usable.
 
 ### 📖 What I learned
- - I can actually code! In my homeworks and projects, a lot of code is already provided by professors, but this project was different. I got to program everything from start to finish. I only used `Google Gemini` a handful of times, and it was only for tasks that weren't necessary for the project.
+ - I can actually code! In my homeworks and projects, a lot of code is already provided by professors, but this project was different. I got to program everything from start to finish. I also only used `Google Gemini` 3 times, for formatting subplots and calculating validation accuracy (not substaintial at all).
  - `pytorch` for MLP classification, how to build and train `pytorch` models, and how to test them.
  -   how to properly preprocess to prevent data leakage — next I want to learn how to preprocess entirely using `scikit-learn`.
 
